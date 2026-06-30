@@ -130,7 +130,7 @@ copy .env.example .env
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/medical-telegram-warehouse.git
+git clone https://github.com/FreweyniGerezgiher/week8-medical-telegram-warehouse
 cd Week-8
 ```
 
